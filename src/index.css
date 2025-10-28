@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html, body, #root {
+  height: 100%;
+}
+body {
+  @apply bg-yellow-50 text-stone-800;
+}
+
