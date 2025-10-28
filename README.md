@@ -1,7 +1,7 @@
 # 📚 BookVerse – Explore Your Universe of Books
 
 **BookVerse** is a modern web app built using **React**, **Tailwind CSS**, and the **Open Library API**.  
-It’s designed for **Alex**, a college student who loves discovering, exploring, and saving books effortlessly.
+It’s designed for student who loves discovering, exploring, and saving books effortlessly.
 
 ---
 
@@ -15,7 +15,7 @@ It’s designed for **Alex**, a college student who loves discovering, exploring
 ---
 
 ## 🧠 Built For
-**Alex** — a curious college student who wants an easy way to find and organize books online.
+A curious college student who wants an easy way to find and organize books online.
 
 ---
 
